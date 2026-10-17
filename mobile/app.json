@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Avana",
+    "slug": "avana-mobile",
+    "scheme": "avana",
+    "version": "0.1.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "app.avana.mobile"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "48e5984f-b716-4fd7-91d2-9b86e3b88469"
+      }
+    },
+    "owner": "izadorafranco"
+  }
+}
